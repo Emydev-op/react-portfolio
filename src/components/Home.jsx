@@ -30,7 +30,7 @@ const Home = () => {
           </div>
           {/* img */}
           <div className="order-first md:order-last relative">
-            <img src={img2} alt="" />
+            <img src={img2} width="450px" height="450px" alt="" />
           </div>
         </div>
       </div>
