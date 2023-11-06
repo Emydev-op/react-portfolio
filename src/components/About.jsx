@@ -12,7 +12,7 @@ const About = () => {
     },
   ];
   return (
-    <div className="md:px-10 px-7 sm:-mt-24 mt-10" id="about">
+    <div className="md:px-10 px-7 sm:-mt-24" id="about">
       <h1 className="text-primary font-semibold text-3xl mt-5">About me:</h1>
       <p className="my-3 text-white md:w-2/3 leading-[2]">
         Hi, my name is Osegbo Emeka, i am a Fullstack web developer and UI
